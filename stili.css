@@ -1,0 +1,191 @@
+/* CSS Document */
+
+
+
+body {
+
+
+
+	background-color      	: ffffff;
+
+	scrollbar-base-color  	: 3b444b;
+
+	scrollbar-arrow-color 	: 3b444b;
+
+
+
+}
+
+
+
+.img {
+
+
+
+text-align            	: center;
+
+
+
+}
+
+
+
+.dip {
+
+
+
+font-family				: Verdana, Arial, Helvetica, sans-serif;
+
+font-weight           	: bold;
+
+text-align            	: center;
+
+font-size             	: 26px; 
+
+color      		: 414141;
+
+
+
+}
+
+
+
+.href 
+
+{
+
+
+
+font-family				: Verdana, Arial, Helvetica, sans-serif;
+
+text-align     		: center;
+font-size             	: 18px;
+		color                 	: 2a3a38;
+
+
+
+}
+
+
+
+.zag 
+
+{
+
+
+
+font-family		: Verdana, Arial, Helvetica, sans-serif;
+
+font-weight           	: bold;
+text-align            	: center;
+
+font-size 		: 24px;
+
+color                 	: 000000;
+
+
+
+}
+
+
+
+.inf 
+
+{
+
+
+
+font-family           	: Verdana, Arial, Helvetica, sans-serif;
+
+text-align            	: center;
+	font-size             	: 16px;
+
+color                 	: 000000;
+
+
+
+}
+
+
+
+.bottom 
+{
+
+
+
+font-family				: Verdana, Arial, Helvetica, sans-serif;
+
+font-size				: 14px;
+
+font-weight           	: bold;
+
+text-align				: center;
+
+color					: 3b444b;
+
+
+
+}
+
+
+
+a 
+
+{
+
+ text-decoration       	: none;
+
+
+
+}
+
+
+
+a			:link,a		:visited 
+
+{
+
+
+
+color                 	: 3b444b;
+
+
+
+}
+
+ 
+
+a:hover 
+
+{
+
+
+
+color 			: 3b444b;
+
+text-decoration       	: none;
+
+
+
+}
+
+
+
+a.dip:link,a.dip:visited 
+
+{
+
+
+
+font-family		: Verdana, Arial, Helvetica, sans-serif;
+
+font-weight           	: bold;
+
+font-size             	: 36px;
+
+color  			: 3b444b;
+
+
+
+} 
+
